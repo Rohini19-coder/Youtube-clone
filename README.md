@@ -8,7 +8,7 @@ A front-end **YouTube Clone** built using HTML and CSS, designed to replicate th
 
 | Title         | Code                                                                  | Live Demo |
 |--------------|-----------------------------------------------------------------------|-----------|
-| YouTube Clone | [View Code](https://github.com/rohini19-coder/Youtube-clone) | [Live Demo](https://rohini19-coder.github.io/Youtube-clone/) |
+| YouTube Clone | [View Code](https://github.com/rohini19-coder/Youtube-clone) | [Live Demo](https://rohini19-coder.github.io/Youtube-clone-project/) |
 
 ---
 
